@@ -1,5 +1,7 @@
 # burpxml
 
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/seh-msft/burpxml)](https://pkg.go.dev/github.com/seh-msft/burpxml)
+
 Go module to parse Burp Suite HTTP proxy history XML files. 
 
 Output formats include CSV, JSON, and Go syntax. 
@@ -15,8 +17,6 @@ See also: [bx](https://github.com/seh-msft/bx)
 	go get github.com/seh-msft/burpxml
 
 ## Documentation
-
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/seh-msft/burpxml)](https://pkg.go.dev/github.com/seh-msft/burpxml)
 
 ```
 package burpxml
