@@ -1,6 +1,6 @@
 # burpxml
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/seh-msft/burpxml)](https://pkg.go.dev/github.com/seh-msft/burpxml)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/henesy/burpxml)](https://pkg.go.dev/github.com/henesy/burpxml)
 
 Go module to parse Burp Suite HTTP proxy history XML files. 
 
@@ -10,11 +10,11 @@ Options are provided for controlling base64 decoding for request/response bodies
 
 Requests/responses may be optionally omitted for the CSV format output. 
 
-See also: [bx](https://github.com/seh-msft/bx)
+See also: [bx](https://github.com/henesy/bx)
 
 ## Install
 
-	go get github.com/seh-msft/burpxml
+	go get github.com/henesy/burpxml
 
 ## Documentation
 
