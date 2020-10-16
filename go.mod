@@ -1,3 +1,3 @@
-module github.com/seh-msft/burpxml
+module github.com/henesy/burpxml
 
 go 1.14
