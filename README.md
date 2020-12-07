@@ -1,6 +1,7 @@
 # burpxml
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/henesy/burpxml)](https://pkg.go.dev/github.com/henesy/burpxml)
+[![GoDoc](https://godoc.org/github.com/henesy/burpxml?status.svg)](https://godoc.org/github.com/henesy/burpxml)
+
 
 Go module to parse Burp Suite HTTP proxy history XML files. 
 
